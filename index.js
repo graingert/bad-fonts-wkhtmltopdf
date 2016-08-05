@@ -1,4 +1,4 @@
-const montserrat = require.resolve('@typopro/web-montserrat/TypoPRO-Montserrat.css');
+const montserrat = require.resolve('@typopro/dtp-montserrat/TypoPRO-Montserrat.css');
 const text = 'the quick brown fox jumps over the lazy dog';
 
 const headerTags = ['h1', 'h2', 'h3', 'h4', 'h5', 'h6'];

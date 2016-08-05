@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@typopro/web-montserrat": "^3.4.4"
+    "@typopro/dtp-montserrat": "^3.4.9",
+    "@typopro/web-montserrat": "^3.4.9"
   }
 }
